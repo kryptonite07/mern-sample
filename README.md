@@ -18,7 +18,7 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
   * Redux Thunk middleware to handle asynchronous redux actions.
 
 
-## Database Seed
+## Database Seed.
 
 * The seed command will create an admin user in the database
 * The email and password are passed with the command as arguments
