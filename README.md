@@ -20,7 +20,7 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
 
 ## Database Seed.
 
-* The seed command will create an admin user in the database
+* The seed command will create an admin user in the database.
 * The email and password are passed with the command as arguments
 * Like below command, replace brackets with email and password. 
 * For more information, see code [here](server/utils/seed.js)
