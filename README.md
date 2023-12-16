@@ -9,7 +9,7 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
 3. Admins manage and control the entire store components 
 
 
-* features:
+* features::
   * Node provides the backend environment for this application.
   * Express middleware is used to handle requests, routes.
   * Mongoose schemas to model the application data.
