@@ -14,7 +14,7 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
   * Express middleware is used to handle requests, routes.
   * Mongoose schemas to model the application data.
   * React for displaying UI components.
-  * Redux to manage application's state.
+  * Redux to manage application's state..
   * Redux Thunk middleware to handle asynchronous redux actions.
 
 
