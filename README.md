@@ -6,7 +6,7 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
 
 1. Buyers browse the store categories, products and brands
 2. Sellers or Merchants manage their own brand component
-3. Admins manage and control the entire store components 
+3. Admins manage and control the entire store components.
 
 
 * features::
