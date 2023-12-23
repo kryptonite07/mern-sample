@@ -1,6 +1,6 @@
 # Security Policy
 
-## Reporting a Vulnerability
+## Reporting a Vulnerability.
 
 Please submit a pull request to report security bugs.  
 security
